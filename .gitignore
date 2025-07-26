@@ -1,6 +1,5 @@
 *.pptx
 *.jpg
-*.png
 *.DS_Store
 *.zip
 __pycache__/
